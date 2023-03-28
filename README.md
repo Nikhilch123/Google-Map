@@ -20,4 +20,6 @@ The components exposed are abstractions for Leaflet layers, not DOM elements. So
 
 Using a package registry:
 npm install react react-dom leaflet
+
+
 npm install react-leaflet
